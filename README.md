@@ -1,4 +1,3 @@
 # flutter-playground
 
-Flutter app was initialized with `flutter create flutter_testapp`, and React app was initialized with `npx create-react-app react-testapp`.
-
+Flutter app was initialized with `flutter create flutter_testapp`, and React Native app was initialized with `npx expo init ReactNativeTestapp`.
